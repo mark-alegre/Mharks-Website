@@ -1,1 +1,10 @@
 
+streamlit
+streamlit_option_menu
+requests
+Pillow
+streamlit_lottie
+datetime
+timedelta
+pandas
+matplotlib
